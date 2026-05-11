@@ -51,6 +51,3 @@ $$
 *   $y_1, y_2$: Second-stage decision variables.
 *   $\xi_{1s}, \xi_{2s}$: Random parameters in scenario $s$, read from the `scenario` dictionary.
 =======
-# L-Shaped-Decomposition-Algorithm-for-Two-Stage-Stochastic-Programming
-This project implements the L-shaped decomposition algorithm to solve two-stage stochastic programming problems. The algorithm iteratively solves the master problem and scenario-based subproblems, generating feasibility/optimality cuts until convergence.
->>>>>>> 546567641652609eb32be30e1cba87643aa70756
